@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="./css/style.css">
+    <script src="./js/index.js" defer></script>
+    <title>Mario RunTime</title>
+</head>
+
+<body>
+    <audio id="audio" src="./audio/mario-song.mp3" autoplay class="musica"></audio>
+    <audio src="audio/audio_jump_song.mp3" class="audiojump"></audio>
+    <audio src="audio/audio_game_over.mp3" class="gameover"></audio>
+
+    <script>
+        var audio = document.getElementById("audio");
+        audio.volume = 0.1;
+    </script>
+
+
+    <div class="game-board">
+        <img src="./images/estrela super mario.png" class="ini">
+        <img src="./images/clouds.png" class="clouds">
+        <img src="./images/mario.gif" class="mario">
+        <img src="./images/pipe.png" class="pipe">
+
+    </div>
+    <div class="about">
+        <h1 class="footer">
+            Feito pelo Gui 🤙🏽
+        </h1>
+    </div>
+
+
+</body>
+
+</html>
