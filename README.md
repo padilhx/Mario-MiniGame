@@ -10,7 +10,7 @@
 ## O jogo:
 🚩 O resultado final ainda não está pronto, porém, o jogo já está ativo e funcionando! 
                   Acesse e jogue:
-                  [Mario-Minigame](projeto-minigame-mario.vercel.app)
+                  [Mario-Minigame](https://projeto-minigame-mario.vercel.app/)
    
 
 ## Referencia e créditos:
